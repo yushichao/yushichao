@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Yu<br />
 **Senior Mobile & Web Engineer**<br />  
-📍 Japan 🇯🇵 <br />
+📍 Japan Tokyo <br />
 📱 Android / iOS / Web <br />
 🌐 React / React Native / Flutter / TypeScript <br />
 
